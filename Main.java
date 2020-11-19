@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main{
 
     public static void math() {
-        System.out.println("Hi There. This is a program to calculate the total cost of your meal at a restuarant.");
+        System.out.println("Hi There. This is a program to calculate the total cost of your meal at a restaurant.");
         
         System.out.println("Thank you.\nNow Please enter the price of the meal");
         Scanner input = new Scanner(System.in);
